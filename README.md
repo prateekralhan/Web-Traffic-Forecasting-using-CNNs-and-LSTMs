@@ -28,12 +28,17 @@ We will work with the web traffic dataset. It is a six-month series data which y
 
 ## Training/Validation Loss : 
 
-| LSTM | CNN |
-| ---- | --- |
-| ![loss_lstm](https://user-images.githubusercontent.com/29462447/134826157-7ba86d3c-d2ee-42ef-9508-8d88b1c1790b.png)     |  ![loss_cnn](https://user-images.githubusercontent.com/29462447/134826162-47b688f5-6c3c-44ac-a4b5-a42f047ec68f.png)   |
+| Basic LSTM Model      | Basic CNN Model|
+| ----------- | ----------- |
+| ![loss_lstm](https://user-images.githubusercontent.com/29462447/134826157-7ba86d3c-d2ee-42ef-9508-8d88b1c1790b.png)      | ![loss_cnn](https://user-images.githubusercontent.com/29462447/134826162-47b688f5-6c3c-44ac-a4b5-a42f047ec68f.png)       |
 
 ## Results: 
-| LSTM | CNN |
-| ---- | --- |
-| ![pred_lstm](https://user-images.githubusercontent.com/29462447/134826200-27252b04-3f2d-47ef-be86-523c01e19d49.png)    |  ![pred_cnn](https://user-images.githubusercontent.com/29462447/134826193-8f024fef-970e-46f9-96c4-7c2e6feb6417.png)   |
+
+1. Basic LSTM Model :
+
+![pred_lstm](https://user-images.githubusercontent.com/29462447/134826200-27252b04-3f2d-47ef-be86-523c01e19d49.png)
+
+2. Basic CNN Model : 
+
+![pred_cnn](https://user-images.githubusercontent.com/29462447/134826193-8f024fef-970e-46f9-96c4-7c2e6feb6417.png)
 
