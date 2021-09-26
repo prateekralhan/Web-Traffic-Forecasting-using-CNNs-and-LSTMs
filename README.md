@@ -42,3 +42,7 @@ We will work with the web traffic dataset. It is a six-month series data which y
 
 ![pred_cnn](https://user-images.githubusercontent.com/29462447/134826193-8f024fef-970e-46f9-96c4-7c2e6feb6417.png)
 
+## Conclusions: 
+* Going through the results, we conclude that both the models tend to have almost similar performance. Feel free to fine tune the hyperparameters ( different batch sizes, optimizers etc. ) or customize the DL architectures?
+* Transfer Learning, SOTA models? 😯
+* Facebook Prophet?😏
