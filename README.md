@@ -34,6 +34,11 @@ We will work with the web traffic dataset. It is a six-month series data which y
 
 ## Results: 
 
+| Metric | Baseline Model | Basic LSTM Model | Basic CNN Model |
+| ------ | -------------- | ---------------- | --------------- |
+| Mean Square Error | 0.5546 | 0.01501 | 0.0138 |
+
+
 1. Basic LSTM Model :
 
 ![pred_lstm](https://user-images.githubusercontent.com/29462447/134826200-27252b04-3f2d-47ef-be86-523c01e19d49.png)
