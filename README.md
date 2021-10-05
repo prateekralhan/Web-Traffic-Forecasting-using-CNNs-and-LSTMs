@@ -1,4 +1,5 @@
-# Web Traffic 🕸💥 Forecasting using CNNs and LSTMs 
+# Web Traffic 🕸💥 Forecasting using CNNs and LSTMs [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+
 
 The web traffic is basically the number of sessions in a given time frame, and it varies a lot with respect to what time of the day it is, what day of the week it is, and so on, and how much web traffic of platform can withstand depends on the size of the servers that are supporting the platform.
 
